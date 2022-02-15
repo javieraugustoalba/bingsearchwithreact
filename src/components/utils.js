@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import PaginationComponent from "./PaginationComponent";
 
  var API_KEY_COOKIE = "3fc0a55d637a48aebb776fb51079b155";
-var CLIENT_ID_COOKIE = "bing-search-client-id";
+var CLIENT_ID_COOKIE = "7ae54bb307d44031bea43daa18c3688b";
 var width = 0;
 var height = 0;
 
